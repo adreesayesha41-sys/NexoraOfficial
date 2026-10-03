@@ -2,8 +2,9 @@ import { useState, useEffect } from 'react'
 import { supabase } from './supabase.js'
 
 // ====== EDIT THESE ======
-const WHATSAPP = '923256449291' // your number, digits only, country code first (no + or spaces)
-const INSTAGRAM = 'https://www.instagram.com/nexoraofficial1122'
+const WHATSAPP = 923256449291
+ const X='nexoraofficial1122'
+const INSTAGRAM='https://ig.me/'+X
 // ========================
 
 const SIZES = ['S', 'M', 'L', 'XL']
