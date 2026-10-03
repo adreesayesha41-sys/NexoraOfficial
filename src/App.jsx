@@ -3,7 +3,7 @@ import { supabase } from './supabase.js'
 
 // ====== EDIT THESE ======
 const WHATSAPP = '923256449291' // your number, digits only, country code first (no + or spaces)
-const INSTAGRAM =https://www.instagram.com/nexoraofficial1122 
+const INSTAGRAM = 'https://www.instagram.com/nexoraofficial1122'
 // ========================
 
 const SIZES = ['S', 'M', 'L', 'XL']
